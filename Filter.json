@@ -1,1 +1,42 @@
+{
+  "userRegistrations": {
+    "filters": {
+      "dateRange": "Last 7 Days",
+      "countryFilter": "",
+      "typeFilter": ""
+    },
+    "tableData": [
+      {
+        "id": 1,
+        "country": "Bangladesh",
+        "registered": 26441,
+        "notVerified": 4931,
+        "failPercent": 15
+      },
+      {
+        "id": 2,
+        "country": "India",
+        "registered": 22150,
+        "notVerified": 3100,
+        "failPercent": 12
+      },
+      {
+        "id": 3,
+        "country": "Nepal",
+        "registered": 7810,
+        "notVerified": 1010,
+        "failPercent": 13
+      }
+    ],
+    "chartData": [
+      { "day": 14, "total": 2400 },
+      { "day": 15, "total": 2210 },
+      { "day": 16, "total": 2290 },
+      { "day": 17, "total": 2000 },
+      { "day": 18, "total": 2181 },
+      { "day": 19, "total": 2500 },
+      { "day": 20, "total": 2100 }
+    ]
+  }
+}
 
