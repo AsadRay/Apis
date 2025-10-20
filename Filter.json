@@ -37,6 +37,19 @@
       { "day": 19, "total": 2500 },
       { "day": 20, "total": 2100 }
     ]
+  },
+  "countryData": {
+    "Bangladesh": { "x": 72, "y": 35, "name": "Bangladesh", "users": 26441 },
+    "India": { "x": 65, "y": 30, "name": "India", "users": 15230 },
+    "Pakistan": { "x": 60, "y": 28, "name": "Pakistan", "users": 8945 },
+    "China": { "x": 85, "y": 25, "name": "China", "users": 32100 },
+    "USA": { "x": 20, "y": 25, "name": "USA", "users": 45600 },
+    "Brazil": { "x": 35, "y": 50, "name": "Brazil", "users": 12340 },
+    "UK": { "x": 50, "y": 15, "name": "UK", "users": 18900 },
+    "Germany": { "x": 52, "y": 18, "name": "Germany", "users": 16700 },
+    "France": { "x": 48, "y": 18, "name": "France", "users": 14200 },
+    "Japan": { "x": 95, "y": 20, "name": "Japan", "users": 22500 },
+    "Australia": { "x": 90, "y": 60, "name": "Australia", "users": 9800 },
+    "Canada": { "x": 15, "y": 15, "name": "Canada", "users": 11200 }
   }
 }
-
