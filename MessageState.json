@@ -1,1 +1,38 @@
-
+{
+  "messages": {
+    "filters": {
+      "dateRange": "Last 7 Days",
+      "countryFilter": ""
+    },
+    "messagesData": [
+      { "id": 1, "country": "Bangladesh", "flag": "🇧🇩", "count": 819888 },
+      { "id": 2, "country": "American Samoa", "flag": "🇦🇸", "count": 1 },
+      { "id": 3, "country": "Armenia", "flag": "🇦🇲", "count": 1 }
+    ],
+    "messageTypesData": [
+      { "name": "Text", "value": 776849, "percentage": 94.75, "color": "#4F46E5" },
+      { "name": "Deleted", "value": 23541, "percentage": 2.87, "color": "#EF4444" },
+      { "name": "Image", "value": 8168, "percentage": 1.00, "color": "#EC4899" },
+      { "name": "Voice", "value": 7589, "percentage": 0.93, "color": "#06B6D4" },
+      { "name": "Video", "value": 2243, "percentage": 0.27, "color": "#F97316" },
+      { "name": "Edited", "value": 849, "percentage": 0.10, "color": "#22C55E" },
+      { "name": "Sticker", "value": 346, "percentage": 0.04, "color": "#06B6D4" },
+      { "name": "File", "value": 292, "percentage": 0.04, "color": "#EC4899" },
+      { "name": "Location", "value": 13, "percentage": 0.00, "color": "#3B82F6" }
+    ],
+    "dateChartData": [
+      { "day": 14, "messages": 2400 },
+      { "day": 15, "messages": 2210 },
+      { "day": 16, "messages": 2290 },
+      { "day": 17, "messages": 2000 },
+      { "day": 18, "messages": 2181 },
+      { "day": 19, "messages": 2500 },
+      { "day": 20, "messages": 2100 }
+    ],
+    "totals": {
+      "totalMessages": 819890,
+      "singleChats": 818890,
+      "groupChats": 1000
+    }
+  }
+}
