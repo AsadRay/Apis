@@ -20,20 +20,5 @@
       "label": "Off-Net In/Out",
       "icon": "User"
     }
-  ],
-  "userRegistrations": [
-    {
-      "id": 1,
-      "username": "rayhan",
-      "date": "2025-10-20",
-      "status": "Active"
-    },
-    {
-      "id": 2,
-      "username": "jubair",
-      "date": "2025-10-19",
-      "status": "Pending"
-    }
   ]
 }
-
